@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Baljinder Hothi!</h1>
 <h3 align="center">Computer Science Student in New York City</h3>
-<img align="right" alt="coding" width="350" src="./baljinder.jpeg">
+<img align="right" alt="coding" width="200" src="./baljinder.jpeg">
 
 📚 Studying Computer Science at City College of New York <br>
 💭 Learning Backend Engineering and Data Science <br> 
