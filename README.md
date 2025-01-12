@@ -30,10 +30,9 @@
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaljinderHothi&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true) 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaljinderHothi&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/baljinder-hothi&ved=2ahUKEwj-v96N_O-FAxUbFVkFHVAiDOEQFnoECBYQAQ&usg=AOvVaw34YUHTdwVeuWYapwRe8Q9W) 
