@@ -35,4 +35,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaljinderHothi&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/baljinder-hothi&ved=2ahUKEwj-v96N_O-FAxUbFVkFHVAiDOEQFnoECBYQAQ&usg=AOvVaw34YUHTdwVeuWYapwRe8Q9W) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baljinder-hothi)  
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=github&logoColor=white)](https://baljinderhothi.github.io)
+
