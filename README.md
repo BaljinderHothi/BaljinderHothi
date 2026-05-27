@@ -1,7 +1,22 @@
-<h1 align="center">👋 Hi, I'm Baljinder </h1>
-<h3 align="center">interested in:  · RL  · ML Infra  · Research· Robotics  · Vision Models · fun things overall</h3>
-<img align="right" alt="coding" width="200" src="./baljinder.jpeg">
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <title>Baljinder S. Hothi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-serif/1.0.0/fonts.min.css" async>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap"
+        async>
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <h2>Baljinder</h2>
+
+        
 <span>
                                                                               @#*%##%%         + #                                                                          
                                                                             =%* %##@##=#%#%%+*#*%#%                                                                         
@@ -90,3 +105,45 @@
                                                                          @@@%%%%@@%@                                                                                        
                                                                            =@*=                                                                                             
 </span>
+        </pre>
+        <div class="ascii-sidebar">
+            <p>interested in</p>
+            <ul>
+                <li>RL</li>
+                <li>ML Infra</li>
+                <li>Research</li>
+                <li>Robotics</li>
+                <li>Vision Models</li>
+                <li>fun things overall</li>
+            </ul>
+        </div>
+    </div>
+
+    <style>
+        .ascii-wrapper {
+            display: flex;
+            align-items: flex-start;
+        }
+        .ascii-sidebar {
+            padding: 2rem 2rem;
+            white-space: nowrap;
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.85rem;
+            line-height: 1.8;
+        }
+        .ascii-sidebar p {
+            margin: 0 0 0.5rem 0;
+        }
+        .ascii-sidebar ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .ascii-sidebar ul li::before {
+            content: "· ";
+        }
+    </style>
+
+</body>
+
+</html>
